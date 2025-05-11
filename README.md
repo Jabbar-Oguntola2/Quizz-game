@@ -1,5 +1,4 @@
-# Quizz-game
-Tkinter Quiz Game
+🧠 Tkinter Quiz Game
 This is a simple True/False quiz game built using Python's tkinter library. It fetches questions from the Open Trivia Database API and displays them in a graphical user interface (GUI).
 
 🧩 Features
@@ -29,4 +28,4 @@ quiz_brain.py: Handles quiz logic like score and answer checking.
 
 data.py: Fetches and prepares quiz data from the API.
 
-ui.py: Builds and manages the GUI using tkinter.
+ui.py: Builds and manages the GUI using tkinter
