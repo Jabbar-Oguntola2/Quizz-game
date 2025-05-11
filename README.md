@@ -31,5 +31,9 @@ data.py: Fetches and prepares quiz data from the API.
 ui.py: Builds and manages the GUI using tkinter
 
 
-https://github.com/user-attachments/assets/b1579baf-c665-409d-9eef-d523e3ff09bf
+
+
+https://github.com/user-attachments/assets/8f7f6bf7-1e05-4c7e-8408-a3722befa111
+
+
 
