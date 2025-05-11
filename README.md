@@ -29,3 +29,7 @@ quiz_brain.py: Handles quiz logic like score and answer checking.
 data.py: Fetches and prepares quiz data from the API.
 
 ui.py: Builds and manages the GUI using tkinter
+
+
+https://github.com/user-attachments/assets/b1579baf-c665-409d-9eef-d523e3ff09bf
+
